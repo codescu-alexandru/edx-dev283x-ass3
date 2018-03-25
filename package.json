@@ -1,0 +1,24 @@
+{
+  "name": "edx-dev283x-ass3",
+  "version": "1.0.0",
+  "description": "Edx DEV283x course, Assessment 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codescu-alexandru/edx-dev283x-ass3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codescu-alexandru/edx-dev283x-ass3/issues"
+  },
+  "homepage": "https://github.com/codescu-alexandru/edx-dev283x-ass3#readme",
+  "dependencies": {
+    "async": "2.6.0",
+    "mongodb": "3.0.5"
+  }
+}
