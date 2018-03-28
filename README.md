@@ -28,8 +28,8 @@ mongod
 node load_data.js
 ```
 
-5. Run the assessment main script:
+5. Run the assessment's main script:
 
 ```
-node index.js
+node index.js 50
 ```
